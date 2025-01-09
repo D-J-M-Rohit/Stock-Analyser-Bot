@@ -1,0 +1,12 @@
+streamlit==1.28.0
+pandas
+numpy
+duckduckgo-search
+yfinance==0.2.31
+beautifulsoup4==4.12.2
+requests==2.31.0
+openai
+python-dotenv==1.0.0
+langchain
+langchain-community
+pika==1.3.1
